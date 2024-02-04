@@ -17,7 +17,7 @@ main section {
 #background {
     height: 725px;
 }
-.logo {
+.logo, .icon {
     width: 80px;
 }
 #hero-img {
