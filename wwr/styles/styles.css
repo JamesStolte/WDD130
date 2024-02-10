@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Irish+Grover&display=swap');
 
 #content {
-    font-family: "Irish Grover", Veranda, sans-serif;
+    font-family: "Irish Grover", Helvetica, sans-serif;
     max-width: 1600px;
     margin: 0 auto; 
 }
 h1 {
-    font-family: "Irish Grover", Veranda, sans-serif;
+    font-family: "Irish Grover", Helvetica, sans-serif;
     text-align: center;
 }
 #hero-msg h4 {
-    font-family: "Irish Grover", Veranda, sans-serif;
+    font-family: "Irish Grover", Helvetica, sans-serif;
     text-align: center;
 }
 .button-box {
@@ -103,7 +103,7 @@ h4 {
     text-align: center;
 }
 h2 {
-    font-family: "Irish Grover", Veranda, sans-serif;
+    font-family: "Irish Grover", Helvetica, sans-serif;
     text-align: center;
     color: #FFECD1;
     padding: 0;
