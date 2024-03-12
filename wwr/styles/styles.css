@@ -264,6 +264,7 @@ main.home-grid {
     width: 90%;
     justify-self: left;
     margin-top: 20px;
+    margin-bottom: 45px;
 }
 .salmon-text {
     width: 100%;
@@ -273,12 +274,12 @@ main.home-grid {
     background-color: #001524;
     margin-bottom: 45px;
     border: #001524;
-    border-radius: 5px;
+    border-radius: 25px;
     text-align: center;
 }
 .deso-image {
     width: 100%;
-    grid-column: 6/9;
+    grid-column: 7/10;
     grid-row: 3/4;
     z-index: -1;
     margin-bottom: 45px;
@@ -291,6 +292,8 @@ main.home-grid {
     font-size: 1.1em;
     margin-bottom: 45px;
     text-align: center;
+    border: #001524;
+    border-radius: 25px;
 }
 .grand-image {
     grid-column: 2/7;
@@ -305,6 +308,8 @@ main.home-grid {
     background-color: #001524;
     font-size: 1.45em;
     text-align: center;
+    border: #001524;
+    border-radius: 25px;
 }
 #information {
     grid-column: 3/10;
