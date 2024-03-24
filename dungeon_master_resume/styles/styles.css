@@ -193,7 +193,7 @@ main.home-grid {
 .logo-link {
     color: #28930b;
 }
-.ixalan-solo-card {
+.solo-card {
     width: 100%;
     display: inline-flex;
     grid-column: 3/6;
