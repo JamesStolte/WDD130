@@ -4,7 +4,7 @@
     --accent1-color: #28930b;
     --accent2-color: #FFECD1;
   
-    --heading-font: "Pirata One";
+    --heading-font: "Irish Grover";
     --paragraph-font: "DM Sans", Helvetica, sans-serif;
   
     --headline-color-on-white: #1c246d;
@@ -20,7 +20,7 @@
 }
 /* whole page stuff */
 #content {
-    font-family: "arial", Helvetica, sans-serif;
+    font-family: arial, Helvetica, sans-serif;
     max-width: 1600px;
     margin: 0 auto; 
 }
@@ -34,6 +34,7 @@ body {
 p {
     color: #FFECD1;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     font-family: "Irish Grover", Helvetica, sans-serif;
@@ -48,7 +49,7 @@ h2 {
     margin: 0;
 }
 .msg {
-    font-family: "Inter", Garamond, Helvetica;
+    font-family: Arial, Garamond, Helvetica;
     background-color: #1c246d;
     line-height: 1.5em;
     padding: 35px;
@@ -57,7 +58,7 @@ h2 {
     color: #FFECD1;
 }
 .msg p {
-    font-family: "Inter", Garamond, Helvetica;
+    font-family: Arial, Garamond, Helvetica;
     color: #FFECD1;
     font-size: 1.2em;
     padding: 15px;
