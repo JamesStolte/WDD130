@@ -146,6 +146,10 @@ main.home-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+.home-title {
+    font-size: 3em;
+    margin-bottom: 5%;
+}
 /* card stuff */
 .card-img, .mini-img, .camp-img{
     border: 10px solid #001524;
